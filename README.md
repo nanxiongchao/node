@@ -341,6 +341,8 @@ more information about the governance of the Node.js project, see
 **Yorkie Liu** &lt;yorkiefixer@gmail.com&gt;
 * [yosuke-furukawa](https://github.com/yosuke-furukawa) -
 **Yosuke Furukawa** &lt;yosuke.furukawa@gmail.com&gt;
+* [nanxiongchao](https://github.com/nanxiongchao) -
+**Xiongchao Nan** &lt;nanxiongchao@loongson.cn&gt;
 
 Collaborators (which includes CTC members) follow the
 [COLLABORATOR_GUIDE.md](./COLLABORATOR_GUIDE.md) in maintaining the Node.js
